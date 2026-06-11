@@ -8,6 +8,8 @@ Learn C++, ROS 2, and Docker by building a complete pick-and-place pipeline for 
 
 The user drives, Claude navigates and explains. This ensures real learning, not passive code generation.
 
+📖 **Start here:** [learning-playbook.md](learning-playbook.md) — a practical guide on how to learn with the AI, including conversation patterns, modes (Explain/Show me/Review), and checkpoint criteria.
+
 ### Roles
 
 | User | Claude |
