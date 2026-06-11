@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+*/build/
+*/install/
+*/log/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+.docker/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Compiled
+*.o
+*.a
+*.so
+*.exe
